@@ -1,12 +1,6 @@
 class CountOneBinary:
 
-    def __init__(self, decimal:int, binary:int = '1'):
-        self.decimal = decimal
-        self.binary = binary
-
-
-    def main(self, decimal, binary):
-        return count_one_binary(decimal, binary)
+    def __init__():
 
 
     def decimal_to_binary(self, decimal:int) -> str:
